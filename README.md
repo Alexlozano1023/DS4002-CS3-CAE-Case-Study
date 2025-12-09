@@ -18,18 +18,18 @@ By completing this case study, you will learn to:
 ├── Rubric_CS3.pdf
 │
 ├── data/
-│   ├── README.md
-│   ├── raw/         (optional)
-│   └── processed/   (optional)
+│ ├── README.md
+│ ├── raw/ (optional)
+│ └── processed/ (optional)
 │
 ├── scripts/
-│   ├── cae_case_study.ipynb
-│   └── README.md
+│ ├── cae_case_study.ipynb
+│ └── README.md
 │
 └── supplemental_materials/
-    ├── blog_autoencoder_intro.pdf
-    ├── autoencoder_technical_article.pdf
-    └── README.md
+├── blog_autoencoder_intro.pdf
+├── autoencoder_technical_article.pdf
+└── README.md
 
 ### 3. Complete the Case Study Tasks
 Inside the notebook, you will:
