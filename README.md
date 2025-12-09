@@ -1,4 +1,3 @@
-# DS4002-CS3-CAE-Case-Study
 # Reconstructing Turbulence Fields Using Convolutional Autoencoders: A Practical Case Study
 
 ## Overview
@@ -12,6 +11,7 @@ By completing this case study, you will learn to:
 - Follow a structured deep-learning workflow from data loading to output analysis  
 
 ## Repository Structure
+```
 /
 ├── README.md
 ├── HookDocument_CS3.pdf
@@ -30,6 +30,16 @@ By completing this case study, you will learn to:
 ├── blog_autoencoder_intro.pdf
 ├── autoencoder_technical_article.pdf
 └── README.md
+```
+
+## Getting Started
+
+### 1. Clone or Download the Repository
+git clone https://github.com/Alexlozano1023/DS4002-CS3-CAE-Case-Study.git
+
+### 2. Navigate to the Scripts Folder
+Open the following notebook:
+
 
 ### 3. Complete the Case Study Tasks
 Inside the notebook, you will:
@@ -48,11 +58,14 @@ To complete the case study, you must submit:
 
 ## Supplemental Materials
 Background readings are provided in:
+
 These materials include:
 - A conceptual introduction to autoencoders  
 - A technical article describing autoencoder architectures  
 
-These documents will help build your intuition before beginning the case study.
+They are intended to support your understanding before beginning the case study.
 
 ## Questions
 If you encounter issues running the notebook or interpreting results, please contact your instructor during office hours.
+
+
